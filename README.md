@@ -18,6 +18,10 @@
 
 ###
 
+<h2 align="center">Tecnologias</h2>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
@@ -37,4 +41,21 @@
 </div>
 
 ###
+
+<h2 align="center">Redes sociais</h2>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/bluestrawberry_22">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bluestrawberry_22&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
+
 ###
