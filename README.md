@@ -52,10 +52,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/bluestrawberry_22">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bluestrawberry_22&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
