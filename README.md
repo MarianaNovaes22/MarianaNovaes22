@@ -1,6 +1,6 @@
 ## Olá! 👋 Sou a Mariana Novaes
 
-- 🔭 Trabalho com suporte técnico
+- 🔭 Trabalhei por 2 anos com suporte técnico
 - 🌱 Aprendendo C#, C e Python
 - 📫 E-mail de contato: mariana.c.novaes22@gmail.com
 - 😄 Pronomes: Ela/dela
